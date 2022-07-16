@@ -60,7 +60,7 @@ szyszka is available on Gentoo's GURU overlay
 ```
 emerge -av gui-apps/szyszka
 ```
-
+.
 ## Future work
 - Adding Regex support
 - Saving/loading presets
